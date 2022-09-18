@@ -2,17 +2,7 @@
 
 
 
-@font-face {
-    font-family: 'Anek Latin';
-    src: url('AnekLatin-Medium.eot');
-    src: url('AnekLatin-Medium.eot?#iefix') format('embedded-opentype'),
-        url('AnekLatin-Medium.woff2') format('woff2'),
-        url('AnekLatin-Medium.woff') format('woff'),
-        url('AnekLatin-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@100;200;300;400;500;600;700;800&display=swap');
 
 
 *{
