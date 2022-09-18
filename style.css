@@ -2,17 +2,17 @@
 
 
 
-@font-face{
+@font-face {
     font-family: 'Anek Latin';
-    src: url('AnekLatin-VariableFont_wdth,wght.eot');
-    src: url('AnekLatin-VariableFont_wdth,wght.eot?#iefix') format('embedded-opentype'),
-    url('AnekLatin-VariableFont_wdth,wght.woff') format('woff'),
-    url('AnekLatin-VariableFont_wdth,wght.woff2') format('woff2'),
-    url('AnekLatin-VariableFont_wdth,wght.ttf') format('truetype');
-    font-weight: normal;
+    src: url('AnekLatin-Medium.eot');
+    src: url('AnekLatin-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AnekLatin-Medium.woff2') format('woff2'),
+        url('AnekLatin-Medium.woff') format('woff'),
+        url('AnekLatin-Medium.ttf') format('truetype');
+    font-weight: 500;
     font-style: normal;
-
-    }
+    font-display: swap;
+}
 
 
 *{
